@@ -1,5 +1,8 @@
+```
 brew install caarlos0/tap/org-stats
+```
 
+```
 org-stats --org plone --token <TOKEN> --top 10 --csv-path out.csv --since 1y
 
 Commits champions are:
@@ -37,3 +40,4 @@ stevepiercy with 49367 lines removed!
 ericof with 48848 lines removed!
 davisagli with 37717 lines removed!
 agitator with 35107 lines removed!
+```
