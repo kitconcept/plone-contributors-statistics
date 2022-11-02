@@ -1,6 +1,6 @@
 brew install caarlos0/tap/org-stats
 
-org-stats --org plone --token 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 --top 10 --csv-path out.csv --since 1y
+org-stats --org plone --token <TOKEN> --top 10 --csv-path out.csv --since 1y
 
 Commits champions are:
 🏆 mauritsvanrees with 2093 commits!
